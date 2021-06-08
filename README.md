@@ -16,7 +16,7 @@
 
 - 🤝 I would love to collaborate on **Any Projects**
 
-- 📧 How to reach me **chimotekaustubh@gmail.com**
+- 📧 You can contact me through linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
