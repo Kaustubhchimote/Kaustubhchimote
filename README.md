@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Chimote</h1>
 <h3 align="center">👨🏻‍🎓 I am a sophomore at Vellore Institute of Technology , pursuing my Bachelors in Computer Science Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
 - 🔭 I’m currently working on **Developing Skills in various fields**
 
