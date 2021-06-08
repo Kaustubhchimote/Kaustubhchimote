@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ChimoteKaustubh?s=09"><img src="https://img.shields.io/twitter/follow/@ChimoteKaustubh?logo=twitter&style=for-the-badge" alt="@ChimoteKaustubh" /></a> </p>
-
 - 🔭 I’m currently working on **Developing Skills in various fields**
 
 - 🖥️ I’m currently learning **Full Stack Web Development**
