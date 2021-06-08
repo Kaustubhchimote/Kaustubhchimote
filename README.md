@@ -16,7 +16,7 @@
 
 - 🤝 I would love to collaborate on **Any Projects**
 
-- 📧 You can contact me through linkedin
+- 📧 You can contact me via linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
