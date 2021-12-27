@@ -8,7 +8,7 @@
 
 - 🖥️ I’m currently learning **CyberSecurity**
 
-- 👾 I like working with **C++ Java Python**
+- 👾 I like working with **C++ C Python**
 
 - 🆘 I’m looking for help with **everything 😂**
 
