@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Developing Skills in fields of Cyber Security**
 
-- 🖥️ I’m currently learning **Cyber Security**
+- 🖥️ I’m currently undertaking **CEH Training**
 
 - 👾 I like working with **Python, Powershell, C++**
 
