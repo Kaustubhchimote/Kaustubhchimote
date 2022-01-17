@@ -1,16 +1,16 @@
 ### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">Hi 👋, I'm Kaustubh Chimote</h1>
-<h3 align="center">👨🏻‍🎓 I am a sophomore at Vellore Institute of Technology, India pursuing Bachelors in Cyber Security Engineering</h3>
+<h3 align="center">👨🏻‍🎓 I am a sophomore at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering with interest in Cyber Security</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
-- 🔭 I’m currently working on **Developing Skills in various fields**
+- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security**
 
-- 🖥️ I’m currently learning **CyberSecurity**
+- 🖥️ I’m currently learning **Cyber Security**
 
-- 👾 I like working with **C++, C, Python**
+- 👾 I like working with **Python, Powershell, C++**
 
-- 🆘 I’m looking for help with **everything 😂**
+- 🆘 I’m looking for internship opprtunities in **Cyber Security**
 
 - 🤝 I would love to collaborate on **Any Projects**
 
