@@ -1,6 +1,6 @@
 ### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">Hi 👋, I'm Kaustubh Chimote</h1>
-<h3 align="center">👨🏻‍🎓 I am a third year student at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering with interest in Cyber Security</h3>
+<h3 align="center">👨🏻‍🎓 I am a Third year student at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering with interest in Cyber Security</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
