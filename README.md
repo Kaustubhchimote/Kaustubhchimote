@@ -4,13 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
-- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security**
+- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security, Web and Software Development**
 
-- 🖥️ I’m currently undertaking **CEH Training**
+- 🖥️ I’m currently undertaking **CEHv11 Training and AWS Certified Cloud Practitioner Certification**
 
-- 👾 I like working with **Python, Powershell, C++**
+- 👾 I like working with **C++, Python, CSS, HTML, React, Powershell**
 
-- 🆘 I’m looking for internship opprtunities in **Cyber Security**
+- 🆘 I’m looking for internship opprtunities in **Web and Software Development and Cyber Security**
 
 - 🤝 I would love to collaborate on **Any Projects**
 
