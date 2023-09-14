@@ -1,16 +1,16 @@
 ### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">Hi 👋, I'm Kaustubh Chimote</h1>
-<h3 align="center">👨🏻‍🎓 I am a Final year student at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering with interest in Cyber Security</h3>
+<h3 align="center">👨🏻‍🎓 I am a Final year student at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
-- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security, Web and Software Development**
+- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security, Salesforce and Software Development**
 
-- 🖥️ I’m currently undertaking **CEHv11 Training and AWS Certified Cloud Practitioner Certification**
+- 🖥️ I’m currently undertaking **Salesforce Developer Training by PwC**
 
-- 👾 I like working with **C++, Python, CSS, HTML, React, Powershell**
+- 👾 I like working with **Salesforce, C++, Python, Powershell**
 
-- 🆘 I’m looking for internship opprtunities in **Web and Software Development and Cyber Security**
+- 🆘 I’m looking for internship and Full-time opprtunities in **Salesforce and Software Development**
 
 - 🤝 I would love to collaborate on **Any Projects**
 
