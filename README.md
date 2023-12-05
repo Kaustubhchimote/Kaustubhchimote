@@ -4,13 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaustubhchimote&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhchimote" /> </p>
 
-- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security, Salesforce and Software Development**
+- 🔭 I’m currently working on **Developing Skills in fields of Cyber Security and Software Development**
 
-- 🖥️ I’m currently undertaking **Salesforce Developer Training by PwC**
+- 🖥️ I’m currently undertaking **Google Data Analysis Certification**
 
 - 👾 I like working with **Salesforce, C++, Python, Powershell**
 
-- 🆘 I’m looking for internship and Full-time opprtunities in **Salesforce and Software Development**
+- 🆘 I’m looking for internship and Full-time opprtunities in **Data Analytics, CyberSecurity, Software Development**
 
 - 🤝 I would love to collaborate on **Any Projects**
 
